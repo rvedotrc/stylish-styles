@@ -1,0 +1,16 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("tweetdeck.twitter.com") {
+
+  /* "View conversation */
+  /* a[rel="viewDetails"] { opacity: 0.1; } */
+
+  /* The "view conversation" link, and reply/rt/like/... */
+  .tweet-footer { opacity: 0; }
+  .tweet-footer:hover { opacity: 1; }
+
+  /* Until I can work out pause-by-default (which will probably require GreaseMonkey),
+     just hide all video in the stream. */
+  .media-item video { display: none !important; }
+
+}
