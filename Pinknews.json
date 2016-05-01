@@ -1,0 +1,23 @@
+{
+  "style": {
+    "url": null,
+    "updateUrl": "",
+    "md5Url": null,
+    "name": "Pinknews",
+    "enabled": 1,
+    "originalCode": null,
+    "idUrl": null,
+    "applyBackgroundUpdates": 1,
+    "originalMd5": null
+  },
+  "meta": [
+    {
+      "name": "domain",
+      "value": "pinknews.co.uk"
+    },
+    {
+      "name": "type",
+      "value": "site"
+    }
+  ]
+}

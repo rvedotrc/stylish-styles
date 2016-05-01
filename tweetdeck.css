@@ -1,0 +1,8 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("tweetdeck.twitter.com") {
+  
+  .tweet-footer a[rel="viewDetails"] { opacity: 0.3; }
+  .media-preview video { display: none !important; }
+
+}

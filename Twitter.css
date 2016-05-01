@@ -1,0 +1,25 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("twitter.com") {
+
+  /* .suggested-tweet-stream-container { display: none; } */
+
+  /* 2016-03-17 */
+  .xxx.promoted-tweet { display: none; }
+  .xxx.stream-item.DismissibleModule { display: none; } /* follow these people! etc, within the stream */
+  
+  /* 2016-03-26 */
+  .trends { display: none; } /* side panel */
+  .moments { display: none; } /* toolbar button */
+  
+  /* 2016-03-29 */
+  .js-recommended-followers .promoted-account { display: none; } /* promoted "follow me!", sidebar */
+
+  /* 2016-03-31 */
+  .suggested-tweet-stream-container { display: none; } /* promoted tweet below a status */
+  
+  /* 2016-04-01 */
+  .has-profile-promoted-tweet { display: none; } /* promoted tweet in a stream */
+  .promoted-tweet { display: none; } /* in some other contexts */
+  
+}

@@ -1,0 +1,9 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("theguardian.com") {
+  
+  /* 2013-03-27 */
+  /* Annoying thing that pops up over any highlighted text */
+  .selection-sharing { display: none; }
+
+}
