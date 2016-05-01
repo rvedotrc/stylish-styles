@@ -1,7 +1,9 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("tweetdeck.twitter.com") {
+
   .tweet-body:before, .quoted-tweet header:after { content: "Ed Balls"; }
   p.tweet-text, .js-quoted-tweet-text { display: none; }
+
 }
 
