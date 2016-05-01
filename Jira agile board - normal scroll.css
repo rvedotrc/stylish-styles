@@ -1,0 +1,10 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("jira.dev.bbc.co.uk") {
+
+  /* 2016-04-11 */
+  body.ghx-scroll-columns, #ghx-work { overflow: initial !important; }  
+  #ghx-pool { overflow-y: inherit !important; } /* Quick filters etc */ 
+  #ghx-column-header-group { position: initial !important; }
+
+}

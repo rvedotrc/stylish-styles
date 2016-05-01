@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("facebook.com") {
+  
+  /* 2013-03-25 */
+  /* ads */
+  #pagelet_ego_pane { opacity: 0.03; }
+  /* trending */
+  #pagelet_trending_tags_and_topics { opacity: 0.03; }
+
+  /* 2016-04-07 */
+  .rhcFooter { display: none; } /* image zoom, nags to complete profile, and ads */
+  
+}

@@ -1,0 +1,8 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("pinknews.co.uk") {
+
+  /* 2016-04-22 */
+  .article_mpu { display: none; } /* in-article ad */
+  
+}

@@ -1,0 +1,23 @@
+{
+  "style": {
+    "url": null,
+    "updateUrl": "",
+    "md5Url": null,
+    "name": "theguardian.com",
+    "enabled": 1,
+    "originalCode": null,
+    "idUrl": null,
+    "applyBackgroundUpdates": 1,
+    "originalMd5": null
+  },
+  "meta": [
+    {
+      "name": "domain",
+      "value": "theguardian.com"
+    },
+    {
+      "name": "type",
+      "value": "site"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "style": {
+    "url": null,
+    "updateUrl": "",
+    "md5Url": null,
+    "name": "successfactors (BBC)",
+    "enabled": 1,
+    "originalCode": null,
+    "idUrl": null,
+    "applyBackgroundUpdates": 1,
+    "originalMd5": null
+  },
+  "meta": [
+    {
+      "name": "domain",
+      "value": "performancemanager.successfactors.eu"
+    },
+    {
+      "name": "type",
+      "value": "site"
+    }
+  ]
+}

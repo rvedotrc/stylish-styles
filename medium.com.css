@@ -1,0 +1,8 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("medium.com") {
+
+  /* 2016-04-04 */
+  .promoCardWrapper { display: none; } /* Distracting "Don't miss" box that pops up as you near the end of the article */
+  
+}

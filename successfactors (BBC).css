@@ -1,0 +1,11 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("performancemanager.successfactors.eu") {
+
+  .memberPhoto,
+  .sfPhotoPortraitLarge,
+  .sfPhotoBoxAbs,
+  .photo 
+  { x-opacity: 0.02; }
+  
+}
