@@ -11,6 +11,9 @@
 
   /* Until I can work out pause-by-default (which will probably require GreaseMonkey),
      just hide all video in the stream. */
-  .media-item video { display: none !important; }
+  x.media-item video { display: none !important; }
+
+  /* Avoid unwanted overflow in tweet-compose box */
+  .character-count-compose:disabled { width: 40px; }
 
 }
