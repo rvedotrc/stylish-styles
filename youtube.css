@@ -15,4 +15,7 @@
   /* 2016-04-16 */
   .video-annotations { display: none !important; } /* various annotations */
 
+  /* 2016-06-26 */
+  .iv-drawer { display: none !important; } /* crap e.g. ads on the side */
+
 }

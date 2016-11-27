@@ -1,9 +1,0 @@
-@namespace url(http://www.w3.org/1999/xhtml);
-
-@-moz-document domain("jira.dev.bbc.co.uk") {
-
-  /* 2016-03-18 */
-  #announcement-banner { opacity: 0.80; }
-  #announcement-banner * { background-color: transparent !important; }
-
-}

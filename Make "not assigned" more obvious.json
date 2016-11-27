@@ -1,0 +1,23 @@
+{
+  "style": {
+    "url": null,
+    "updateUrl": "",
+    "md5Url": null,
+    "name": "Make \"not assigned\" more obvious",
+    "enabled": 1,
+    "originalCode": null,
+    "idUrl": null,
+    "applyBackgroundUpdates": 1,
+    "originalMd5": null
+  },
+  "meta": [
+    {
+      "name": "domain",
+      "value": "jira.dev.bbc.co.uk"
+    },
+    {
+      "name": "type",
+      "value": "site"
+    }
+  ]
+}

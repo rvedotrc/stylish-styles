@@ -21,5 +21,8 @@
   /* 2016-04-01 */
   .has-profile-promoted-tweet { display: none !important; } /* promoted tweet in a stream */
   .promoted-tweet { display: none !important; } /* in some other contexts */
-  
+
+  /* Eurovision logo */
+  span.twitter-hashflag-container img { display: none !important; }
+
 }

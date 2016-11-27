@@ -6,5 +6,6 @@
   body.ghx-scroll-columns, #ghx-work { overflow: initial !important; }  
   #ghx-pool { overflow-y: inherit !important; } /* Quick filters etc */ 
   #ghx-column-header-group { position: initial !important; }
+  .ghx-swimlane-header { background-color: #fff; }
 
 }

@@ -3,7 +3,7 @@
     "url": null,
     "updateUrl": "",
     "md5Url": null,
-    "name": "BBC Jira",
+    "name": "Okta",
     "enabled": 1,
     "originalCode": null,
     "idUrl": null,
@@ -13,7 +13,7 @@
   "meta": [
     {
       "name": "domain",
-      "value": "jira.dev.bbc.co.uk"
+      "value": "okta.int.cloud.bbc.co.uk"
     },
     {
       "name": "type",

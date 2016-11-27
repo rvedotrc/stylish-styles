@@ -1,19 +1,27 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 @-moz-document domain("tweetdeck.twitter.com") {
-
+  
   /* "View conversation */
   /* a[rel="viewDetails"] { opacity: 0.1; } */
+  /* "View conversation" again */
+  x.tweet-context.txt-mute .txt-ellipsis { display: none; }
 
   /* The "view conversation" link, and reply/rt/like/... */
-  .tweet-footer { opacity: 0; }
-  .tweet-footer:hover { opacity: 1; }
-
+  x.tweet-footer { opacity: 0; }
+  x.tweet-footer:hover { opacity: 1; }
+  
   /* Until I can work out pause-by-default (which will probably require GreaseMonkey),
      just hide all video in the stream. */
   x.media-item video { display: none !important; }
 
   /* Avoid unwanted overflow in tweet-compose box */
   .character-count-compose:disabled { width: 40px; }
+  
+  /* 2016-09-25 – account chooser overflowing */
+  .compose-account {
+    margin-right: 12px; /* override default 16px */
+    margin-bottom: 12px; /* override default 16px */
+  }
 
 }

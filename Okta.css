@@ -1,0 +1,8 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("okta.int.cloud.bbc.co.uk") {
+
+  /* Avoid x509 SVN credentials making the page far too wide */
+  select.credentials-select { max-width: 40em; }
+  
+}
